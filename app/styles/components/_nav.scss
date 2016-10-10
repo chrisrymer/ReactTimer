@@ -6,6 +6,11 @@
   .menu-text {
     color: $nav-text-color;
   }
+
+  a.active {
+    font-weight: bold;
+  }
+
   .menu > .menu-text > a {
     display: inline;
     padding: 0;
